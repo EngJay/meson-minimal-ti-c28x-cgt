@@ -7,7 +7,7 @@ Generation Tools demonstrates that the Ninja backend geenrates the compile and
 linker with the arguments in the wrong order and omits required compiler
 arguments from the linker command precending the argument to run the linker.
 
-Meson version: 1.5.1
+Meson version: 1.5.1  
 Ninja version: 1.11.1.1
 
 ## Prerequisties
