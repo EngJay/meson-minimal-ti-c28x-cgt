@@ -53,3 +53,6 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Don't ignore TI C28x linker scripts
+!2837xD_RAM_lnk_cpu1.cmd
