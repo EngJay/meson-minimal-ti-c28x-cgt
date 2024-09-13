@@ -1,3 +1,6 @@
+# Meson build dir
+build
+
 # Prerequisites
 *.d
 
