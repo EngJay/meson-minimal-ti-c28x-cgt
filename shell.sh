@@ -16,6 +16,6 @@ echo
 
 # Open a bash shell in a container.
 #
-docker run -it -v .:/repo ghcr.io/engjay/meson-minimal-ti-c28x-cgt:0.1.0 /bin/bash
+docker run --rm -it -v .:/repo ghcr.io/engjay/meson-minimal-ti-c28x-cgt:0.1.0 /bin/bash
 
 echo
